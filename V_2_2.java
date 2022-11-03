@@ -195,6 +195,7 @@ public class V_2_2 {
     }
 
     public static void main(String[] args) {
+        //https://stackoverflow.com/questions/37627273/inventory-program-in-java link pro invetario.
         //  BEM VINDO A SOLOURS DEADLY FANTASY (COM ASCII ART)
         menu();
         //RESTO DA HISTORIA 
